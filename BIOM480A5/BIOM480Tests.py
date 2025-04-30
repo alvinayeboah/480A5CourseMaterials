@@ -186,7 +186,7 @@ def ftest(y_true, y_pred, n_predictors):
     f_stat : float
         The calculated F-statistic.
     p_value : float
-        The p-value for the F-test.
+        The p-value for the F-test.  
         
     Example:
     >>> y_true = [1, 2, 3, 4, 5]
